@@ -6,7 +6,7 @@ This project implements a simple IoT-based relay control system using STM32F411 
 
 The STM32 communicates with the ESP8266 via UART and starts a web server.
 
-connection reference:
+Connection reference:
 
 ![WhatsApp Image 2026-02-27 at 11 26 25 PM](https://github.com/user-attachments/assets/ce1c79f0-6df3-4128-880d-89ec9e27960e)
 
